@@ -1,0 +1,39 @@
+{
+  "render": {
+    "markup": "simple/view.html",
+    "script": "simple/view.js",
+    "minimum": {
+      "height": 300,
+      "width": 300
+    }
+  },
+  "dependencies": {
+    "helpers": true,
+    "card": true
+  },
+  "fields": {},
+  "settings": [
+    {
+      "key": "showImage",
+      "type": "checkbox",
+      "templateOptions": {
+        "label": "Show Event Image",
+        "required": false
+      }
+    }
+  ],
+  "play" : {
+      "allow": false,
+      "auto": false,
+      "interval": 8,
+      "ignoreClick": true,
+      "loop": true
+  },  
+  "credits": [
+      {
+          "text": "",
+          "url": ""
+      }
+  ]
+}
+  

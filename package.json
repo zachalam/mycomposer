@@ -1,0 +1,17 @@
+{
+  "name": "my-composer",
+  "version": "1.0.0",
+  "description": "WhenHub My Composer",
+  "scripts": {
+    "start": "node server",
+    "debug": "node --inspect server"
+  },
+  "author": "WhenHub",
+  "dependencies": {
+    "cors": "^2.8.1",
+    "express": "^4.14.1",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "os": "^0.1.1"
+  }
+}
