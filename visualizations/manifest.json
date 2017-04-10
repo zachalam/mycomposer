@@ -7,23 +7,23 @@
 
 
       "list": {
-        "license": "MIT",
-        "website": "[INFO_URL]",
-        "versions": {
-          "1.0.0": {
-            "simple": {
-              "title": "Simple List",
-              "description": "Visualization template",
-              "responsive": true,
-              "customFields": false,
-              "popularity": 0,
-              "featured": false,
-              "screens": [
-                "images/screens/lists-simple-overview.png"
-              ]
+          "license": "MIT",
+          "website": "[INFO_URL]",
+          "versions": {
+            "1.0.0": {
+              "simple": {
+                "title": "Simple List",
+                "description": "Visualization template",
+                "responsive": true,
+                "customFields": false,
+                "popularity": 0,
+                "featured": false,
+                "screens": [
+                  "images/screens/lists-simple-overview.png"
+                ]
+              }
             }
           }
-        }
       }
 
 

@@ -10,7 +10,7 @@ var VISUALIZATION = (function (visualization, window, document) {
         ],
 
         scripts: [
-            '~/jquery/2.1.1/dist/jquery.min.js',
+            '~/jquery/1.11.1/jquery-1.11.1.min',
             'simple/js/jsrender.min.js'
         ]
     };
@@ -27,7 +27,7 @@ var VISUALIZATION = (function (visualization, window, document) {
         // Set defaults 
         var defaults = {
             // default setting value used to hide or show images for event
-            showImage: true
+            showImage: false
         }
         var options = _.assign({}, defaults, settings);
 

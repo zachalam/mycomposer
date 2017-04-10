@@ -9,13 +9,14 @@
   },
   "dependencies": {
     "helpers": true,
-    "card": true
+    "card": false
   },
   "fields": {},
   "settings": [
     {
       "key": "showImage",
       "type": "checkbox",
+      "defaultValue": false,
       "templateOptions": {
         "label": "Show Event Image",
         "required": false
