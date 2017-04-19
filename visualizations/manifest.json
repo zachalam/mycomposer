@@ -1,14 +1,14 @@
 {
-  "mycompany": {
-    "title": "[DISPLAY_NAME]",
-    "website": "[WEBSITE_URL]",
-    "logo": "[LOGO_URL]",
+  "zachalam": {
+    "title": "Zach Alam",
+    "website": "https://github.com/zachalam",
+    "logo": "https://avatars3.githubusercontent.com/u/832764?v=3",
     "visualizations": {
 
 
       "list": {
           "license": "MIT",
-          "website": "[INFO_URL]",
+          "website": "https://github.com/zachalam",
           "versions": {
             "1.0.0": {
               "simple": {
